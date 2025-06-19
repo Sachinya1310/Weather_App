@@ -259,5 +259,5 @@ def get_weather_by_location():
 # scheduler.start()
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=7738)
+    app.run(debug=True, host="https://sachinya1310.github.io", port=7738)
 
